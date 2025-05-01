@@ -14,9 +14,3 @@ A simple Library Management System built in Java to manage different types of li
 - Java 11 or later
 - Object-Oriented Programming concepts (Abstraction, Inheritance, Polymorphism, Encapsulation)
 
-## How to Run
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/renad-iwidat/Library-Management-System.git
